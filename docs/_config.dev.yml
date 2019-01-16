@@ -1,0 +1,13 @@
+# Develop override settings
+
+url: http://localhost:4000
+
+analytics:
+  provider: false
+
+comments:
+  disqus:
+    shortname: "devkit-dev"
+
+sass:
+  style: expanded
